@@ -27,7 +27,8 @@ Yes. If you don't have an account the plugin will guide you through a process of
 
 == Screenshots ==
 
-1. http://www.bantialbumproofing.com/_cms/wp-content/uploads/2013/03/wordpress-plugin.png
+1. Manage your albums from within Wordpress
+`/assets/wordpress-plugin.png`
 
 == Changelog ==
 = 1.0.1 =
