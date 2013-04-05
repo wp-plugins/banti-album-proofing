@@ -28,7 +28,7 @@ Yes. If you don't have an account the plugin will guide you through a process of
 == Screenshots ==
 
 1. Manage your albums from within Wordpress
-`/assets/wordpress-plugin.png`
+`/assets/screenshot-1.png`
 
 == Changelog ==
 = 1.0.1 =
