@@ -32,7 +32,7 @@ Yes. If you don't have an account the plugin will guide you through a process of
 
 == Changelog ==
 = 1.0.1 =
-* First Release.
+* First Release
 
 
 == Upgrade notice ==
