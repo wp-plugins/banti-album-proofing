@@ -43,6 +43,11 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
     <li>Insert this shortcode
       <pre style="display:inline">[banti-album-proofing]</pre>
       where you'd like Banti to appear.</li>
-    <li>Publish the page and press preview to see how Banti integrates within your website</li>
+    <li>Publish the page and press preview to see how Banti integrates within your website
+      <ul>
+        <li><b>NOTE:</b> Since you're logged in as an administrator, the preview will show your admin panel. For a client preview: log out of Wordpress, clear your cookies, and go to the page you created to log in as one of your clients. </li>
+        <li><b>TIP: </b>You can also load the page in a different browser to login as a client.</li>
+      </ul>
+    </li>
   </ol>
 </div>
