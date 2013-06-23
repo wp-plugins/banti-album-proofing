@@ -113,11 +113,11 @@ function banti_album_proofing(){
 add_shortcode( 'banti-album-proofing', 'banti_album_proofing' );
 
 //ADD SHORTCODE BUTTON TO THE EDITOR
-function register_button( $buttons ) {
+function banti_register_button( $buttons ) {
    array_push($buttons, "separator", "bantialbumproofing");
    return $buttons;
 }
-function add_plugin( $plugin_array ) {
+function banti_add_plugin( $plugin_array ) {
    $plugin_array['bantialbumproofing'] = plugins_url( '/banti-album-proofing/js/banti-button.js');//BANTI_PLUGIN_URL . '/js/banti-button.js';
    return $plugin_array;
 }
@@ -130,8 +130,8 @@ function banti_album_proofing_button() {
 	   }
 	
 	   if (get_user_option('rich_editing') == 'true') {
-		  add_filter( 'mce_external_plugins', 'add_plugin' );
-		  add_filter( 'mce_buttons', 'register_button' );
+		  add_filter( 'mce_external_plugins', 'banti_add_plugin' );
+		  add_filter( 'mce_buttons', 'banti_register_button' );
 	   }
 	   
 	}
