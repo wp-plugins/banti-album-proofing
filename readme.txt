@@ -8,11 +8,13 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to use and manage your client's albums without ever leaving WordPress. No matter what software you use to design albums, you can use Banti to proof them.
+This plugin allows you to use and manage your client's albums without ever leaving WordPress. 
 
 == Description ==
 
 Used by professionals who appreciate good design and ease of use, Banti is an online album proofing solution for wedding and portrait photographers that makes album proofing faster than ever before. This plugin allows you to use and manage your client's albums without ever leaving WordPress. A Banti Album Proofing account is required to use this plugin. You can sign up for a free account at www.bantialbumproofing.com/register
+
+No matter what software you use to design albums, you can use Banti to proof them.
 
 == Installation ==
 
