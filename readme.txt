@@ -8,7 +8,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to use and manage your client's albums without ever leaving WordPress.
+This plugin allows you to use and manage your client's albums without ever leaving WordPress. No matter what software you use to design albums, you can use Banti to proof them.
 
 == Description ==
 
