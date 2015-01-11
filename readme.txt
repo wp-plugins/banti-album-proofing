@@ -12,7 +12,7 @@ This plugin allows you to use and manage your client's albums without ever leavi
 
 == Description ==
 
-Used by professionals who appreciate good design and ease of use, Banti is an online album proofing solution for wedding and portrait photographers that makes album proofing faster than ever before. This plugin allows you to use and manage your client's albums without ever leaving WordPress. A Banti Album Proofing account is required to use this plugin. You can sign up for a free account at www.bantialbumproofing.com/register
+Used by professionals who appreciate good design and ease of use, Banti is an online album proofing solution for wedding and portrait photographers that makes album proofing easier than ever before. This plugin allows you to use and manage your client's albums without ever leaving WordPress. A Banti Album Proofing account is required to use this plugin. You can sign up for a free account at www.bantialbumproofing.com/register
 
 No matter what software you use to design albums, you can use Banti to proof them.
 
@@ -30,9 +30,18 @@ Yes. If you don't have an account the plugin will guide you through a process of
 == Screenshots ==
 
 1. Manage your albums from within Wordpress
-`/assets/screenshot-1.png`
+`/assets/screenshot-1.jpg`
+
+2. Specify your own background images and colors to make Banti your own
+`/assets/screenshot-2.jpg`
+
+3. Click anywhere on the spread to tag a specific image with a comment, or use a simple comment form below it.
+`/assets/screenshot-2.jpg`
 
 == Changelog ==
+= 1.2 =
+* Updated to work with the latest release of Banti Album Proofing
+
 = 1.0.1 =
 * First Release
 
