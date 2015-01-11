@@ -36,13 +36,13 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 <div class="inside">
 
 	<h2>What is Banti Album Proofing</h2>
-  <p>Banti Album Proofing is an online album proofing solution for wedding and portrait photographers. You can learn more at <a href="http://www.bantialbumproofing.com" target="_blank">http://www.bantialbumproofing.com</a><br>
+  <p>Banti Album Proofing is an online album proofing solution for wedding and portrait photographers. You can learn more at <a href="https://www.bantialbumproofing.com" target="_blank">http://www.bantialbumproofing.com</a><br>
   </p>
   <h2>What does Banti's Wordpress Plugin do?</h2>
-  <p>This plugin allows you to manage your client's wedding albums from within Wordpress instead of <a href="http://www.bantialbumproofing.com" target="_blank">Banti's website.</a><br>
+  <p>This plugin allows you to manage your client's wedding albums from within Wordpress instead of <a href="https://www.bantialbumproofing.com" target="_blank">Banti's website.</a><br>
   </p>
   <h2>Do I have to have an account with Banti to use this plugin?</h2>
-  <p>Yes! If you don't have an account you can register for a free trial at <a href="http://www.bantialbumproofing.com/register">http://www.bantialbumproofing.com/register</a><br>
+  <p>Yes! If you don't have an account you can register for a free trial at <a href="https://www.bantialbumproofing.com/register">http://www.bantialbumproofing.com/register</a><br>
   </p>
   <h2>How do I create a proofing page for my clients?</h2>
   <div style="color:#666; border:1px solid #eee; background:#f8f8f8; padding:10px;"><strong>IMPORTANT NOTE:</strong> You have to enter your Banti login information under "Settings" first</div>

@@ -18,7 +18,7 @@ $row = $wpdb->get_row("SELECT * FROM ".BANTI_TABLE_PREFIX."settings_tbl WHERE us
   <form method="post" action="admin.php?page=settings">
     <?php if($row->username=="") { ?>
     <div class="error">
-      <p style="font-size:18px;line-height:24px;">I don't have a Banti account (<a href="http://www.bantialbumproofing.com/" target="_blank">www.bantialbumproofing.com</a>)? <a href="http://www.bantialbumproofing.com/register" target="_blank" class="button button-secondary"><strong>Get one now!</strong></a></p>
+      <p style="font-size:18px;line-height:24px;">I don't have a Banti account (<a href="https://www.bantialbumproofing.com/" target="_blank">www.bantialbumproofing.com</a>)? <a href="https://www.bantialbumproofing.com/register" target="_blank" class="button button-secondary"><strong>Get one now!</strong></a></p>
     </div>
     <?php } ?>
     <div class="dashboard-widgets-wrap">
@@ -26,7 +26,7 @@ $row = $wpdb->get_row("SELECT * FROM ".BANTI_TABLE_PREFIX."settings_tbl WHERE us
     <div class="postbox">
 <h3 class="hndle"><span>I already have an active account on Banti</span></h3>
 <div class="inside">
-<p>If you already <strong>have</strong> an account on <a href="http://www.bantialbumproofing.com/" target="_blank">Banti</a>, please enter your username (not email).</p>
+<p>If you already <strong>have</strong> an account on <a href="https://www.bantialbumproofing.com/" target="_blank">Banti</a>, please enter your username (not email).</p>
 	
 	<table class="form-table">
       <tbody>

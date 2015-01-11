@@ -40,9 +40,8 @@ Yes. If you don't have an account the plugin will guide you through a process of
 
 == Changelog ==
 = 1.2.1 =
+*Release Date - 11th January, 2015*
 * Minor bug fixes
-
-= 1.2 =
 * Updated to work with the latest release of Banti Album Proofing
 
 = 1.0.1 =
