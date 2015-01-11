@@ -94,7 +94,7 @@ function banti_show_admin(){
 		include 'banti-admin-settings.php';
 	}else{
 		
-		echo '<div id="banti-albums"><iframe src="http://www.bantialbumproofing.com/_ajax.php?album-name-loggin='.$row->username.'&password='.$row->password.'&username='.$row->username.'&action=login&wl=wp" frameborder="0" style="height:100%; width:100%; margin:0;padding:0; border:none; min-height:1200px;">&nbsp;</iframe><script src="http://www.bantialbumproofing.com/scripts/iframe.js"></script></div>';
+		echo '<div id="banti-albums" style="overflow:hidden; position:relative; left:-1.3%; -webkit-overflow-scrolling: touch; overflow-y: scroll; width:100.5%; height:100%;min-height:1800px; "><iframe src="https://www.bantialbumproofing.com/_ajax.php?album-name-loggin='.$row->username.'&action=login&wl=wp"  width="100%" style="width:100%; max-width:100%; height:100%; margin:0;padding:0;border:none;" scrolling="no" frameborder="0">&nbsp;</iframe><script src="https://www.bantialbumproofing.com/scripts/iframe.js"></script></div>';
 	}
 }
 function banti_show_settings(){
@@ -108,7 +108,7 @@ function banti_show_help(){
 function banti_album_proofing(){
 	global $wpdb;
 	$row = $wpdb->get_row("SELECT * FROM ".BANTI_TABLE_PREFIX."settings_tbl WHERE username!='' ORDER BY id DESC");
-	return '<div id="banti-albums"><iframe src="http://www.bantialbumproofing.com/'.$row->username.'?brand=off" frameborder="0" style="height:100%; width:100%; margin:0;padding:0; border:none; min-height:1200px;">&nbsp;</iframe><script src="http://www.bantialbumproofing.com/scripts/iframe.js"></script></div>';
+	return '<div id="banti-albums" style="overflow:hidden; position:relative; -webkit-overflow-scrolling: touch; overflow-y: scroll; width:100%; height:100%;"><iframe src="https://www.bantialbumproofing/'.$row->username.'?brand=off"  style="width:100%; max-width:100%; height:100%;  margin:0;padding:0;border:none;" scrolling="no" frameborder="0">&nbsp;</iframe><script src="https://www.bantialbumproofing/scripts/iframe.js"></script></div>';
 }
 add_shortcode( 'banti-album-proofing', 'banti_album_proofing' );
 

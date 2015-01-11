@@ -23,19 +23,28 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 .wrap p {
 	margin-bottom: 40px;
 }
+.metabox-holder h2{
+	padding-bottom:0;
+}
 </style>
 <div class="wrap">
   <h2>Banti Album Proofing Help</h2>
-  <h3>What is Banti Album Proofing</h3>
+  <div class="dashboard-widgets-wrap">
+<div id="dashboard-widgets" class="metabox-holder columns-1">
+    <div class="postbox">
+<h3 class="hndle"><span>FAQ's</span></h3>
+<div class="inside">
+
+	<h2>What is Banti Album Proofing</h2>
   <p>Banti Album Proofing is an online album proofing solution for wedding and portrait photographers. You can learn more at <a href="http://www.bantialbumproofing.com" target="_blank">http://www.bantialbumproofing.com</a><br>
   </p>
-  <h3>What does Banti's Wordpress Plugin do?</h3>
+  <h2>What does Banti's Wordpress Plugin do?</h2>
   <p>This plugin allows you to manage your client's wedding albums from within Wordpress instead of <a href="http://www.bantialbumproofing.com" target="_blank">Banti's website.</a><br>
   </p>
-  <h3>Do I have to have an account with Banti to use this plugin?</h3>
+  <h2>Do I have to have an account with Banti to use this plugin?</h2>
   <p>Yes! If you don't have an account you can register for a free trial at <a href="http://www.bantialbumproofing.com/register">http://www.bantialbumproofing.com/register</a><br>
   </p>
-  <h3>How do I create a proofing page for my clients?</h3>
+  <h2>How do I create a proofing page for my clients?</h2>
   <div style="color:#666; border:1px solid #eee; background:#f8f8f8; padding:10px;"><strong>IMPORTANT NOTE:</strong> You have to enter your Banti login information under "Settings" first</div>
   <ol>
     <li>Create a new Wordpress page<img src="<?php echo BANTI_PLUGIN_URL; ?>images/add-new-page.png" style="display:block;"></li>
@@ -50,4 +59,11 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
       </ul>
     </li>
   </ol>
+	
+	</div>
+</div>
+    
+ </div>
+  </div>
+  
 </div>
