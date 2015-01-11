@@ -5,7 +5,7 @@ Plugin URI: http://www.bantialbumproofing.com
 Description: Used by professionals who appreciate good design and ease of use, Banti is an online album proofing solution for wedding and portrait photographers that makes album proofing faster than ever before. This plugin allows you to use and manage your client's albums without ever leaving Wordpress.
 Author: Banti Album Proofing
 Author URI: http://www.bantialbumproofing.com
-Version: 1.0.1
+Version: 1.2.1
 */
 /*****************************************
 COPYRIGHT

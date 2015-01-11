@@ -4,7 +4,7 @@ Donate link:
 Tags: photography proofing album proofs
 Requires at least: 3.5.1
 Tested up to: 4.1
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Yes. If you don't have an account the plugin will guide you through a process of
 `/assets/screenshot-2.jpg`
 
 == Changelog ==
+= 1.2.1 =
+* Minor bug fixes
+
 = 1.2 =
 * Updated to work with the latest release of Banti Album Proofing
 
